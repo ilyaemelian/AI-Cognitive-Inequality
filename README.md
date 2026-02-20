@@ -85,7 +85,7 @@ This research represents foundational work for future PhD research at the inters
 
 📘 Book 2: [Machine Learning: Manual for the Next Generation](https://github.com/ilyaemelian/ML-Manual-Next-Generation) — the practical companion that teaches how to build AI systems responsibly.
 
-🌐 [ilyaemelianov.com](https://ilyaemelianov.com) | [evo-study.com](https://evo-study.com)
+🌐 [ilyaemelianov.com](https://ilyaemelianov.com)
 
 ---
 
